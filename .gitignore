@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+develop-eggs/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+.idea
+
+# virtualenv
+.venv/
+
+# env file
+.env.dev
